@@ -1,5 +1,5 @@
 import React from 'react'; // Importeren van React bibliotheek
-import { Typography, Box, Button, Grid, Container } from '@mui/material'; // Importeren van Material UI componenten
+import { Typography, Button, Grid, Container } from '@mui/material'; // Importeren van Material UI componenten
 
 // HomePage component - gebruik van React.FC om het als functionele component te definiëren
 const HomePage: React.FC = () => {
