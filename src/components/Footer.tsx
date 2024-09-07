@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
             </Typography>
             {/* E-mail link met icon */}
             <Link 
-              href="mailto:hello@unikorns.agency" 
+              href="datmma@outlook.com" 
               underline="none" 
               sx={{ 
                 display: 'flex', 
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
               }}
             >
               <EmailIcon sx={{ marginRight: '8px' }} /> {/* E-mail icoon naast de tekst */}
-              hello@unikorns.agency
+              chatportal@outlook.com
             </Link>
           </Grid>
 
@@ -105,10 +105,10 @@ const Footer: React.FC = () => {
         {/* Onderste sectie - Voettekst */}
         <Box sx={{ marginTop: '50px', borderTop: '1px solid #ddd', paddingTop: '20px', textAlign: 'center' }}>
           <Typography variant="body2" sx={{ color: '#777' }}>
-            © Unikorns 2024. All rights reserved. 
+            ©chatportal 2024. All rights reserved. 
             {/* Privacybeleid link */}
             <Link href="#" underline="hover">
-              Privacy Policy
+               Privacy Policy
             </Link>
           </Typography>
         </Box>
